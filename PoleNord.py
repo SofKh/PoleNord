@@ -20,6 +20,9 @@ polenord_dmsY = dms_to_dd(POLE_NORD_Y)
 montreal_dmsX = dms_to_dd(MONTREAL_X)
 montreal_dmsY = dms_to_dd(MONTREAL_Y)
 
+print(polenord_dmsX, polenord_dmsY)
+print(montreal_dmsX, montreal_dmsY)
+print(distance_deux_points(polenord_dmsX, polenord_dmsY, montreal_dmsX, montreal_dmsY))
 
 
 
