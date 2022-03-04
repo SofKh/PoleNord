@@ -31,4 +31,3 @@ print(distance_deux_points(polenord_dmsX, polenord_dmsY, montreal_dmsX, montreal
 
 
 
-
